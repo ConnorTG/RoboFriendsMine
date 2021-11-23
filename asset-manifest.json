@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "//connortg.github.io/RoboFriendsMine/static/css/main.328043cf.chunk.css",
+    "main.js": "//connortg.github.io/RoboFriendsMine/static/js/main.3383915f.chunk.js",
+    "main.js.map": "//connortg.github.io/RoboFriendsMine/static/js/main.3383915f.chunk.js.map",
+    "runtime-main.js": "//connortg.github.io/RoboFriendsMine/static/js/runtime-main.ee1ac5c1.js",
+    "runtime-main.js.map": "//connortg.github.io/RoboFriendsMine/static/js/runtime-main.ee1ac5c1.js.map",
+    "static/css/2.6d7c7915.chunk.css": "//connortg.github.io/RoboFriendsMine/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.f9f5aa27.chunk.js": "//connortg.github.io/RoboFriendsMine/static/js/2.f9f5aa27.chunk.js",
+    "static/js/2.f9f5aa27.chunk.js.map": "//connortg.github.io/RoboFriendsMine/static/js/2.f9f5aa27.chunk.js.map",
+    "index.html": "//connortg.github.io/RoboFriendsMine/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "//connortg.github.io/RoboFriendsMine/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.328043cf.chunk.css.map": "//connortg.github.io/RoboFriendsMine/static/css/main.328043cf.chunk.css.map",
+    "static/js/2.f9f5aa27.chunk.js.LICENSE.txt": "//connortg.github.io/RoboFriendsMine/static/js/2.f9f5aa27.chunk.js.LICENSE.txt",
+    "static/media/App.css": "//connortg.github.io/RoboFriendsMine/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee1ac5c1.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.f9f5aa27.chunk.js",
+    "static/css/main.328043cf.chunk.css",
+    "static/js/main.3383915f.chunk.js"
+  ]
+}
